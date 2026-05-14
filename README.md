@@ -35,8 +35,9 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
 
 ```text
 .
-├── Int.ipynb                 # Main analysis notebook
-├── Notes.md                  # Summary of findings and interpretations
-├── tip_visualization.png     # Visualization explaining findings
-├── README.md                 # Project documentation
+├── Int.ipynb                       # Main analysis notebook
+├── Notes.md                        # Summary of findings and interpretations
+├── tip_visualization.png           # Visualization explaining findings
+├── tip_visualization_corr.png      # Visualization explaining the correlation between total bill and tip
+├── README.md                       # Project documentation
 └── .gitignore
