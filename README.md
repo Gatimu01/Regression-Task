@@ -40,9 +40,9 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
 ├── tip_visualization_corr.png      # Visualization explaining the correlation between total bill and tip
 ├── README.md                       # Project documentation
 └── .gitignore
-
+```
 ---
-# Run Instructions
+## Run Instructions
 
 Clone the repository, install the required dependencies, and open the notebook file.
 
