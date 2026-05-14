@@ -28,7 +28,6 @@ The dataset used is the publicly available Seaborn `tips` dataset.
 
 Source:
 https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
-
 ---
 
 ## Project Structure
@@ -41,3 +40,19 @@ https://raw.githubusercontent.com/mwaskom/seaborn-data/master/tips.csv
 ├── tip_visualization_corr.png      # Visualization explaining the correlation between total bill and tip
 ├── README.md                       # Project documentation
 └── .gitignore
+
+---
+# Run Instructions
+
+Clone the repository, install the required dependencies, and open the notebook file.
+
+```bash
+git clone <repository_link>
+cd <repository_name>
+pip install pandas matplotlib seaborn scikit-learn notebook
+jupyter notebook
+```
+
+Then open `Int.ipynb` and run all cells.
+
+Alternatively, the notebook can also be opened and executed using VS Code with the Jupyter extension installed.
